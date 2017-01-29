@@ -1,0 +1,21 @@
+.ctr-widget{
+  background: #000;
+}
+
+.menu li a{
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 0.800em;
+  color: #fff;
+}
+
+.no-padding{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.ctr-header{
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 1.800em;
+}
